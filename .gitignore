@@ -1,0 +1,8 @@
+.DS_Store
+
+/index.js
+/gatsby-browser.js
+/gatsby-ssr.js
+/__tests__
+
+/node_modules

@@ -1,0 +1,35 @@
+{
+  "name": "gatsby-remark-color-highlight",
+  "version": "1.0.0",
+  "description": "Gatsby plugin to highlight colors in your markdown output.",
+  "main": "index.js",
+  "author": "Maxim Zubarev",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src --out-dir .",
+    "prepare": "cross-env NODE_ENV=production npm run build",
+    "watch": "babel -w src --out-dir ."
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "babel-preset-gatsby-package": "^0.2.16",
+    "cross-env": "^7.0.0"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "remark",
+    "color",
+    "highlight",
+    "markdown"
+  ],
+  "dependencies": {
+    "color": "^3.1.2",
+    "jsdom": "^16.1.0",
+    "mdast-util-to-string": "^1.0.7",
+    "unist-util-visit": "^2.0.1"
+  }
+}
