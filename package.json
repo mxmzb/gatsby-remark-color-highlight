@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Maxim Zubarev",
   "homepage": "https://maximzubarev.com/project/gatsby-remark-color-highlight",
+  "repository": "https://github.com/mxmzb/gatsby-remark-color-highlight.git",
   "license": "MIT",
   "private": false,
   "scripts": {

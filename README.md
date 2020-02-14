@@ -1,6 +1,22 @@
-# gatsby-remark-color-highlight
+<h2 align="center">`gatsby-remark-color-highlight`</h2>
+<h3 align="center">Adds color highlighting to hex codes in your markdown content.</h3>
 
-Adds color highlighting to hexcodes in your markdown content.
+<p align="center">
+  <a href="https://npmjs.org/package/gatsby-remark-color-highlight">
+    <img src="https://img.shields.io/npm/v/gatsby-remark-color-highlight" />
+  </a>
+  <a href="https://github.com/mxmzb/gatsby-remark-color-highlight/blob/master/LICENSE">
+    <img src="https://img.shields.io/npm/l/gatsby-remark-color-highlight" />
+  </a>
+  <a href="https://npmjs.org/package/gatsby-remark-color-highlight">
+    <img src="https://img.shields.io/bundlephobia/min/gatsby-remark-color-highlight" />
+  </a>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+</p>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/mxmzb/gatsby-remark-color-highlight/master/media/example.png" />
 
 This is a sub-plugin for `gatsby-transformer-remark`. As demoed below, add this plugin to the options of `gatsby-transformer-remark`.
 
