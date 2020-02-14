@@ -1,4 +1,9 @@
-<h2 align="center">`gatsby-remark-color-highlight`</h2>
+<p align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/mxmzb/gatsby-remark-color-highlight/master/media/logo-emoji.png" height="150" />
+</p>
+
+<h2 align="center">gatsby-remark-color-highlight</h2>
 <h3 align="center">Adds color highlighting to hex codes in your markdown content.</h3>
 
 <p align="center">
@@ -17,6 +22,8 @@
 <br />
 
 <img src="https://raw.githubusercontent.com/mxmzb/gatsby-remark-color-highlight/master/media/example.png" />
+
+Alongside this plugin I've written a [tutorial on creating Gatsby.js plugins](https://maximzubarev.com/how-to-create-a-gatsby-js-transformer-plugin).
 
 This is a sub-plugin for `gatsby-transformer-remark`. As demoed below, add this plugin to the options of `gatsby-transformer-remark`.
 
