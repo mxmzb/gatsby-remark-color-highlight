@@ -1,6 +1,6 @@
 <p align="center">
   <br />
-  <img src="https://raw.githubusercontent.com/mxmzb/gatsby-remark-color-highlight/master/media/logo-emoji.jpg" height="150" />
+  <img src="https://raw.githubusercontent.com/mxmzb/gatsby-remark-color-highlight/master/media/logo-emoji.png" height="150" />
 </p>
 
 <h2 align="center">gatsby-remark-color-highlight</h2>
@@ -21,7 +21,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/mxmzb/gatsby-remark-color-highlight/master/media/example.png" />
+<img src="https://raw.githubusercontent.com/mxmzb/gatsby-remark-color-highlight/master/media/example.jpg" />
 
 Alongside this plugin I've written a [tutorial on creating Gatsby.js plugins](https://maximzubarev.com/how-to-create-a-gatsby-js-transformer-plugin).
 
