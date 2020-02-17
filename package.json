@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Maxim Zubarev",
   "homepage": "https://maximzubarev.com/project/gatsby-remark-color-highlight",
-  "repository": "https://github.com/mxmzb/gatsby-remark-color-highlight.git",
+  "repository": "https://github.com/mxmzb/gatsby-remark-color-highlight",
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -32,7 +32,6 @@
   "dependencies": {
     "color": "^3.1.2",
     "jsdom": "^16.1.0",
-    "mdast-util-to-string": "^1.0.7",
     "unist-util-visit": "^2.0.1"
   }
 }
