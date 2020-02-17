@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-color-highlight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gatsby plugin to highlight colors in your markdown output. 🌈",
   "main": "index.js",
   "author": "Maxim Zubarev",
